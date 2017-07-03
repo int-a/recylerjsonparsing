@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">recylerjsonparsing</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="viewPagerButton">Switch to ViewPager</string>
+    <string name="mainActivityButton">Return to MainActivity</string>
+    <string name="switchLayoutButton">Switch Layout Orientation</string>
+    <string name="reverseLayoutButton">Reverse List</string>
+</resources>
